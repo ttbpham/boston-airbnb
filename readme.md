@@ -33,7 +33,7 @@ You can clone boston-airbnb project using command below:
 $ git clone https://github.com/ttbpham/boston-airbnb.git
 
 ```
-Link to blog post on Media [here](https://medium.com/@ttbpham/airbnb-analytics-contemporary-approach-to-business-problem-solving-ac169eb85828)
+Link to blog post on Medium [here](https://medium.com/@ttbpham/airbnb-analytics-contemporary-approach-to-business-problem-solving-ac169eb85828)
 ## Creators
 
 Thuy Pham  - [https://github.com/ttbpham](https://github.com/ttbpham)
